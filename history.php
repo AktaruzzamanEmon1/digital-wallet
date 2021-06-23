@@ -2,7 +2,7 @@
 <html>
 
 <head>
-<title>Conversion site</title>
+<title>Transaction History</title>
 </head>
 
 <body>
@@ -16,8 +16,8 @@
 <br>
  <table border="1">
       <tr>
-        <th>Transaction Category</td>
-        <th>To</td>
+        <th>Transaction Category</th>
+        <th>To</th>
         <th>Amount</th>
         <th>Transferred On</th>
       </tr>
